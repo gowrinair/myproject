@@ -1,1 +1,2 @@
 Hello git
+new changes to the file
